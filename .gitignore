@@ -1,0 +1,16 @@
+# 排除所有資料夾下的 __pycache__
+__pycache__/
+
+# 排除編譯過的 Python 檔案
+*.pyc
+*.pyo
+*.pyd
+
+# 排除虛擬環境 (如果你有用的話)
+venv/
+.venv/
+env/
+
+# 排除開發工具設定
+.vscode/
+.idea/
