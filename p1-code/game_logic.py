@@ -215,5 +215,3 @@ class PockerGame:
                 ply_idx.append(i)
         ply_idx.remove(my_idx)
         return ply_idx
-
-
